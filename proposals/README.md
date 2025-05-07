@@ -1,0 +1,1 @@
+This is the folder in which to put your proposals. Please create a new subfolder per proposal to keep things clean! The folder can contain the proposal document, images, and other supporting information and things needed for effective governance of the proposal.
